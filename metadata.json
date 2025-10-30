@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Virtual Fashion Try-On",
+  "description": "Upload a photo of a person and an item of clothing to see them wearing it, powered by Gemini. This app uses the 'gemini-2.5-flash-image' model to generate the final image.",
+  "requestFramePermissions": []
+}
